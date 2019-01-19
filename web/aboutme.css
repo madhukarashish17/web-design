@@ -1,0 +1,67 @@
+/*
+div.two
+{
+	text-indent: 0.5in; 
+	text-align: justify;
+	font-size: 1.4em;
+	padding-right: 70px;
+}
+div.three
+{
+	text-indent: 100%; 
+	text-align: justify;font-size: 1.4em;
+}
+div.four
+{
+	text-indent: 0.5in; 
+	text-align: justify;font-size: 1.4em;
+}
+*/
+/*div{
+ text-align: justify;
+ padding: 10px;
+ display: flex;
+
+}*/
+p.two
+{
+position: relative;
+left: 38.6%;
+bottom: 70%;
+
+width:60%;
+ text-indent: 0.5in;
+  text-align: justify;
+  float: flex;
+}
+
+
+img{
+	
+	padding-left : 20px;
+	padding-right : 20px;
+    padding-bottom : 10px;
+    margin-bottom: 5px;
+    
+
+}
+span{
+	font-family: 'Lobster', cursive;
+	font-size: 1.0em;
+}
+body{
+ border: 15px solid #bdc3c7;
+ word-wrap: break-word;
+ padding-left : 20px;
+ padding-right : 20px;
+ padding-bottom : 10px;
+ width:80%;
+ margin: 15px auto;
+ font-family: Souce Sans Pro, sans-serif;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+
+}

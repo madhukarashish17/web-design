@@ -1,0 +1,37 @@
+body{
+	background: url(http://getwallpapers.com/wallpaper/full/c/b/0/23460.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-size: 30px;
+}
+img{
+	width: 30%;
+	float:left;
+	margin: 1%;
+	border-style: groove;
+	position: relative; 
+}
+h1{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #F1F1F1;
+}
+p{
+	
+	margin-left: 1.66%;
+	margin-right: 1.66%;
+	font-size: 4em;
+	border-bottom: 4px solid #F1F1F1;
+	width: 96.4%;
+	padding-bottom: ;
+	
+}
+span{
+	font-family: 'Lobster', cursive;
+	font-size: 2.0em;
+}
+h3{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #F1F1F1;
+}
